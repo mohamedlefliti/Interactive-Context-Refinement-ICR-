@@ -2,7 +2,7 @@ import requests
 import json
 
 # ⚙️ Settings
-OPENROUTER_API_KEY = "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"  # ← Put your API key here
+OPENROUTER_API_KEY = ""  # ← Put your API key here
 OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 # 📦 Strategy definitions
